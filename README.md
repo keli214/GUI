@@ -2,4 +2,4 @@
 Python GUI Project 
 
 ## Table of Content
-- Calculator
+- [Calculator](calculator.py)
