@@ -1,5 +1,5 @@
 # GUI
-Python GUI Project 
+Python GUI Projects
 
 ## Table of Content
 - [Calculator](calculator.py)
